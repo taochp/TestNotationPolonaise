@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestNotationPolonaise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8af28df7619ebd1136dadc031917fd291819d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d013dd5e12ea4230cb78ed1a5fd219c9774c743c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestNotationPolonaise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestNotationPolonaise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

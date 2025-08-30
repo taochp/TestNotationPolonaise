@@ -1,0 +1,15 @@
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/bin/Debug/net9.0/TestNotationPolonaise
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/bin/Debug/net9.0/TestNotationPolonaise.deps.json
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/bin/Debug/net9.0/TestNotationPolonaise.runtimeconfig.json
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/bin/Debug/net9.0/TestNotationPolonaise.dll
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/bin/Debug/net9.0/TestNotationPolonaise.pdb
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.GeneratedMSBuildEditorConfig.editorconfig
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.AssemblyInfoInputs.cache
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.AssemblyInfo.cs
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.csproj.CoreCompileInputs.cache
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.sourcelink.json
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.dll
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/refint/TestNotationPolonaise.dll
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.pdb
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/TestNotationPolonaise.genruntimeconfig.cache
+/home/ctao/BTS/bts_info/annee1/BLOC1/competence2/sequence1/seance3/TestNotationPolonaise/obj/Debug/net9.0/ref/TestNotationPolonaise.dll
